@@ -4,6 +4,18 @@ Sistema de visión por computador para **detectar, seguir y contar peatones, coc
 
 El objetivo no es únicamente obtener un contador: también es estudiar cómo influyen las pérdidas de detección, las oclusiones y los cambios de identidad (*ID switches*) en una aplicación de seguimiento multiobjeto.
 
+## 🎬 Demo
+
+
+
+https://github.com/user-attachments/assets/eea570a2-2624-4835-9389-3804011eca77
+
+
+
+
+Comparison of ByteTrack, BoT-SORT, BoT-SORT with Re-ID,
+and OC-SORT on the same traffic video
+
 ## Funcionalidades
 
 - Detección de personas, bicicletas y coches mediante un modelo YOLO preentrenado.
