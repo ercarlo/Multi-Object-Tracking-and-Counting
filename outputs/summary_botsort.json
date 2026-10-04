@@ -1,0 +1,27 @@
+{
+    "tracker": "botsort",
+    "model": "yolo11s.pt",
+    "device": "cpu",
+    "imgsz": 960,
+    "conf": 0.1,
+    "source_fps": 30.0,
+    "measured_frames": 1072,
+    "mean_track_ms": 191.18265326568377,
+    "mean_total_ms": 212.8451691209356,
+    "p95_total_ms": 224.55995499622077,
+    "effective_fps": 4.698250865312401,
+    "counts": {
+        "Peatones": [
+            20,
+            1
+        ],
+        "Coches": [
+            37,
+            8
+        ],
+        "Bicicletas": [
+            1,
+            0
+        ]
+    }
+}

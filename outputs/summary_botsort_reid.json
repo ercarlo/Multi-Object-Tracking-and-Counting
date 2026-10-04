@@ -1,0 +1,27 @@
+{
+    "tracker": "botsort_reid",
+    "model": "yolo11s.pt",
+    "device": "cpu",
+    "imgsz": 960,
+    "conf": 0.1,
+    "source_fps": 30.0,
+    "measured_frames": 1072,
+    "mean_track_ms": 205.78315680361797,
+    "mean_total_ms": 227.6169762146527,
+    "p95_total_ms": 239.1688549076207,
+    "effective_fps": 4.393345420145448,
+    "counts": {
+        "Peatones": [
+            20,
+            1
+        ],
+        "Coches": [
+            37,
+            8
+        ],
+        "Bicicletas": [
+            1,
+            0
+        ]
+    }
+}
