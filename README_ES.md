@@ -1,5 +1,7 @@
 # Multi-Object Tracking & Traffic Counting
 
+Idioma: [🇪🇸 Español](README_ES.md) | [🇬🇧 English](README.md)
+
 Sistema de visión por computador para **detectar, seguir y contar peatones, coches y bicicletas** en un vídeo urbano grabado con cámara fija. El proyecto combina **YOLO11s** con cuatro configuraciones de seguimiento y compara tanto el resultado del conteo como el coste computacional de cada una.
 
 El objetivo no es únicamente obtener un contador: también es estudiar cómo influyen las pérdidas de detección, las oclusiones y los cambios de identidad (*ID switches*) en una aplicación de seguimiento multiobjeto.
